@@ -6,3 +6,5 @@ scikit-learn
 jupyter
 ipykernel
 optuna
+xgboost
+shap
