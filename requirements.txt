@@ -8,3 +8,6 @@ ipykernel
 optuna
 xgboost
 shap
+scikit-image
+scikit-image[data]
+lime
