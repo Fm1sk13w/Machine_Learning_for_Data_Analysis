@@ -11,3 +11,5 @@ shap
 scikit-image
 scikit-image[data]
 lime
+catboost
+lightgbm
