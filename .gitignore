@@ -43,3 +43,7 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+
+
+notebooks/logs
+notebooks/lightning_logs
