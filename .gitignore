@@ -21,7 +21,7 @@ reports/
 *.log
 *.tmp
 *.bak
-
+datasets/creditcard.csv
 # OS / editor files
 .DS_Store
 Thumbs.db
