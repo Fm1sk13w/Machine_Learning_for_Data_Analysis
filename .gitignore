@@ -45,6 +45,7 @@ dist/
 *.egg-info/
 
 datasets/dogs-cats-images/
+datasets/MNIST/
 
 notebooks/logs
 notebooks/lightning_logs
